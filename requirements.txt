@@ -1,0 +1,7 @@
+ultralytics
+opencv-python
+pandas
+ncnn
+fastapi
+uvicorn
+websockets

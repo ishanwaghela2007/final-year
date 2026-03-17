@@ -1,0 +1,12 @@
+
+path: D:/final-year-main/final-year-main/data/dataset(tubes) 
+train: images/train
+val: images
+
+names:
+  0: 'valbet'
+  1: 'araldite'
+  2: 'beutiful-n'
+  3: 'dk gel'
+  4: 'silverkant'
+  5: 'cani-maks'

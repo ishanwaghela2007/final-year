@@ -1,0 +1,4 @@
+ultralytics>=8.0.0
+opencv
+openvino>=2025.2.0
+numpy

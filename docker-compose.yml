@@ -1,0 +1,16 @@
+version: "3.8"
+
+services:
+  ml-service:
+    build: .
+    container_name: factory-ml-service
+    ports:
+      - "8000:8000"
+    volumes:
+      # This is the crucial part for SQLite:
+      # We map the local 'data' folder to the container's 'data' folder
+      # so your inspections.db persists even if the container stops!
+      - ./data:/app/data
+    restart: unless-stopped
+    environment:
+      - PYTHONUNBUFFERED=1

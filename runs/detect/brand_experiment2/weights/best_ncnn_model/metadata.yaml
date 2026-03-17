@@ -1,0 +1,23 @@
+description: Ultralytics YOLO11n model trained on /Volumes/Untitled 2/desktop/final
+  year project/ml/main/data/dataset(tubes)/data.yaml
+author: Ultralytics
+date: '2026-03-09T12:39:30.846913'
+version: 8.4.2
+license: AGPL-3.0 License (https://ultralytics.com/license)
+docs: https://docs.ultralytics.com
+stride: 32
+task: detect
+batch: 1
+imgsz:
+- 640
+- 640
+names:
+  0: (Valbet)
+  1: Araldite
+  2: BEUTIFUL-N
+  3: Dk Gel
+  4: S K Kant
+args:
+  batch: 1
+  half: false
+channels: 3

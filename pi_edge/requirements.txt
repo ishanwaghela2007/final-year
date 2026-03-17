@@ -1,0 +1,8 @@
+ncnn
+opencv-python-headless
+numpy
+fastapi
+uvicorn
+websockets
+# NO ULTRALYTICS
+# NO TORCH

@@ -1,0 +1,29 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "(Valbet)"
+    },
+    {
+      "id": 1,
+      "name": "Araldite"
+    },
+    {
+      "id": 2,
+      "name": "BEUTIFUL-N"
+    },
+    {
+      "id": 3,
+      "name": "Dk Gel"
+    },
+    {
+      "id": 4,
+      "name": "S K Kant"
+    }
+  ],
+  "info": {
+    "year": 2026,
+    "version": "1.0",
+    "contributor": "Label Studio"
+  }
+}
